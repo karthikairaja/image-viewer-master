@@ -20,7 +20,7 @@ const styles = {
         width: '325px',
         transform: 'translateX(-50%)',
     },
-    title: {
+    title: { 
         fontSize: 20
     }
 };

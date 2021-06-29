@@ -20,7 +20,7 @@ import FavoriteIconFill from '@material-ui/icons/Favorite';
 
 const styles = {
     paper: {
-        position: 'relative',
+        position: 'relative', 
         width: "180px",
         backgroundColor: "#fff",
         top: "30%",

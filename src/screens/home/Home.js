@@ -19,7 +19,7 @@ import Button from '@material-ui/core/Button';
 import GridList from '@material-ui/core/GridList';
 import GridListTile from '@material-ui/core/GridListTile';
 import {constants} from '../../common/utils'
-
+ 
 const styles =  theme => ({
   card: {
     maxWidth: 1100,
